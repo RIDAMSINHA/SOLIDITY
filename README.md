@@ -38,6 +38,11 @@ Once deployed, you can interact with the contract using the provided functions:
 
 The contract is developed using Solidity version 0.8.0. It follows the ERC20 token standard for compatibility with other Ethereum contracts and services.
 
+## Authors
+
+RIDAM ADITYA SINHA
+ridamsinha20@gmail.com
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
