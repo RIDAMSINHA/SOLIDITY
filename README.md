@@ -41,6 +41,7 @@ The contract is developed using Solidity version 0.8.0. It follows the ERC20 tok
 ## Authors
 
 RIDAM ADITYA SINHA
+
 ridamsinha20@gmail.com
 
 ## License
